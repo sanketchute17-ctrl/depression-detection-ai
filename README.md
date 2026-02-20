@@ -89,7 +89,7 @@ Multilingual support
 
 Emergency alert for high-risk cases
 
-Acknowledgments
+Acknowledgment
 
 Inspired by mental health awareness campaigns and AI applications in healthcare.
 No copyrighted datasets used — only publicly available research ideas.
